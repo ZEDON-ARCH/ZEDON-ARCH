@@ -35,13 +35,13 @@
   <a target="_blank" href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="42" height="42" /></a>
   <a target="_blank" href="https://www.djangoproject.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="42" height="42" /></a>
   <a target="_blank" href="https://flask.palletsprojects.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="42" height="42" /></a>
-  <a target="_blank" href="https://rubyonrails.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original.svg" alt="rails" width="42" height="42" /></a>
+  <a target="_blank" href="https://rubyonrails.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="42" height="42" /></a>
   <a target="_blank" href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="42" height="42" /></a>
   <a target="_blank" href="https://jestjs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="42" height="42" /></a>
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="42" height="42" /></a>
   <a target="_blank" href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="42" height="42" /></a>
   <a target="_blank" href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.framer.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" alt="framer" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.framer.com"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
   <a target="_blank" href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42" /></a>
   <a target="_blank" href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="42" height="42" /></a>
   <a target="_blank" href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="42" height="42" /></a>
