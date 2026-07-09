@@ -1,4 +1,4 @@
-    <h1>Hi 👋, I'm Gideon a full stack web developer</h1>
+<h1>Hi 👋, I'm Gideon a full stack web developer</h1>
 <p>A passionate frontend developer and currently upgrading my backend development pathway to integrate full function website for all needs </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
