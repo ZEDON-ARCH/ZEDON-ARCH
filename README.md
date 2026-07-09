@@ -56,6 +56,7 @@
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://www.tiktok.com/@zedshopro"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="tiktok" /></a>
+  <a target="_blank" href="https://discord.com/users/1350390659730771968"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord" /></a>
   <a target="_blank" href="https://www.instagram.com/zeditoninternational?igsh=MWlpbmtod2Fzemd3Yw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
   <a target="_blank" href="https://youtube.com/@mxlord_forever?si=xEsH1lgSXmhqzTJc"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube" /></a>
   <a target="_blank" href="https://stackoverflow.com/users/28536638/zedon"><img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="stackoverflow" /></a>
