@@ -59,7 +59,9 @@
   <a target="_blank" href="https://youtube.com/@mxlord_forever?si=xEsH1lgSXmhqzTJc"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube" /></a>
   <a target="_blank" href="https://stackoverflow.com/users/28536638/zedon"><img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="stackoverflow" /></a>
 </p>
-
+<h2>Best project 🛑</h2
+```bash
+git clone [https://github.com/ZEDON-ARCH/Nexprox.git](https://github.com/ZEDON-ARCH/Nexprox.git)
 <h2>📊 Git Metrics & Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ZEDON-ARCH&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="150" />
